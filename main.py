@@ -1,0 +1,2 @@
+# basics
+print('hello')
